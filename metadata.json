@@ -1,0 +1,6 @@
+{
+  "name": "TradeJournal Pro",
+  "description": "Application complète de journal de trading avec suivi des performances, graphiques de capital, statistiques avancées et export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
